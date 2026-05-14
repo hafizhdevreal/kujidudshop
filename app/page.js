@@ -6,7 +6,7 @@ const products = [
   {
     id: 1,
     name: "Angker Melon ( 1 Slop )",
-    price: 105.000,
+    price: 102.000,
     image:
       "https://ibb.co.com/27XTd7ZY",
   },
