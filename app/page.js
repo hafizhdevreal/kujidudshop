@@ -5,10 +5,10 @@ import { useEffect, useState } from "react";
 const products = [
   {
     id: 1,
-    name: "Kaos Hitam Premium",
-    price: 89000,
+    name: "Angker Melon ( 1 Slop )",
+    price: 105.000,
     image:
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=1200&auto=format&fit=crop",
+      "https://ibb.co.com/27XTd7ZY",
   },
   {
     id: 2,
