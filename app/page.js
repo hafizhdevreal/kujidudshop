@@ -23,7 +23,14 @@ const products = [
     price: 102.000,
     image:
       "https://ibb.co.com/V0r04YkW",
-  }, 
+  },
+  {
+    id: 4,
+    name: "Marbol Original HLP ( 1 Slop )",
+    price: 110.000,
+    image:
+      "https://ibb.co.com/wrYZGfqG",
+  },
 ];
 
 const fakeNames = [
