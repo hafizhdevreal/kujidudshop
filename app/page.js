@@ -12,11 +12,17 @@ const products = [
   },
   {
     id: 2,
-    name: "Oversize Black Tee",
-    price: 99000,
+    name: "Angker Filter Black ( 1 Slop )",
+    price: 102.000,
     image:
-      "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1200&auto=format&fit=crop",
+      "https://ibb.co.com/4R1Svx0C",
   },
+  {
+    id: 3,
+    name: "Marbol HLP Original ( 1 Slop )",
+    price: 102.000,
+    image:
+      "
 ];
 
 const fakeNames = [
